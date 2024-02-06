@@ -1,0 +1,3 @@
+/Users/nazarfrazovir/CLionProjects/Class_Method_Object_Practice1/cmake-build-debug/CMakeFiles/Class_Method_Object_Practice1.dir
+/Users/nazarfrazovir/CLionProjects/Class_Method_Object_Practice1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazarfrazovir/CLionProjects/Class_Method_Object_Practice1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
