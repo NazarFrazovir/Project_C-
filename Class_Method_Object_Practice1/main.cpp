@@ -37,9 +37,7 @@ public:
             cout<<"Enter number: "<<endl;
             cin>>number;
         }
-        void Hello(){
-        cout<<"Hello";
-    }
+     
     };
 int main() {
     const size_t COUNT = 4;
