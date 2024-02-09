@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Class_Method_Object_Practice1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Class_Method_Object_Practice1">
+				<Option output="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Class_Method_Object_Practice1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Class_Method_Object_Practice1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Class_Method_Object_Practice1/fast">
+				<Option output="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Class_Method_Object_Practice1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Class_Method_Object_Practice1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/main.cpp">
+			<Option target="Class_Method_Object_Practice1"/>
+		</Unit>
+		<Unit filename="/Users/nazarfrazovir/CLionProjects/GitHub/Project_C-/Class_Method_Object_Practice1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
